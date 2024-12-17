@@ -1,4 +1,4 @@
 """Finnhub API toolkit."""
-from .client import FinnhubClient
+from .fh_client import FinnhubClient
 
 __all__ = ['FinnhubClient'] 
