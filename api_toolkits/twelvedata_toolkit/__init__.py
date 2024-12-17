@@ -1,4 +1,4 @@
 """TwelveData API toolkit."""
-from .client import TwelveDataClient
+from .td_client import TwelveDataClient
 
 __all__ = ['TwelveDataClient'] 
