@@ -1,4 +1,4 @@
 """AlphaVantage API toolkit."""
-from .client import AlphaVantageClient
+from .av_client import AlphaVantageClient
 
 __all__ = ['AlphaVantageClient'] 
